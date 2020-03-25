@@ -1,0 +1,42 @@
+@media only screen and (max-width: 1025px)
+{
+  h1 .plus
+  {
+    margin-left: 300px;
+  }
+}
+
+@media only screen and (max-width: 1025px)
+{
+  .container{
+    margin: 200px 25%;
+  }
+
+  h1{
+    font-size: 40px;
+    padding: 15px;
+  }
+
+  h1 .plus
+  {
+    margin-left: 200px;
+  }
+
+  input{
+    font-size: 25px;
+  }
+  li{
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+  }
+  span{
+    height: 60px;
+    width: 60px;
+    opacity: 1;
+    margin-bottom: 2px;
+  }
+  span i{
+    margin-left: 22px;
+  }
+}
